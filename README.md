@@ -6,6 +6,9 @@
 
 ##### Skills and Tools: Python Functions, Data Interpretation
 
+
+
+
 ### Project 2: Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data
 
 #### Course: Statistical Methods for Decision Making
@@ -15,11 +18,18 @@
 ##### Skills and Tools:Descriptive Statistics, Probability & Probability Distributions, Estimation, Hypothesis Testing
 
 
+
+
+
 ### Project 3: Advance Statistics:  ANOVA, PCA, EDA
 
 #### Course: Drug Analysis using ANOVA and Principal Component Analysis on College Admissions Data.
 
 ##### The project involved drawing inferences from 2 case studies, namely - Hay Fever Drug Analysis, College Admissions Data. The concepts of Exploratory Data Analysis, Analysis of Variance, and Principal Component Analysis are used to draw inferences from these case studies.
+
+
+
+
 
 
 ### Project 4: Bank Customer Segmentation and Insurance Claim Prediction
